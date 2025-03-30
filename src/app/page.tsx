@@ -1,5 +1,4 @@
 import React from "react";
-import Image from "next/image";
 
 export default function Home() {
   return (
@@ -95,7 +94,7 @@ export default function Home() {
               <div className="p-6">
                 <h3 className="text-xl font-semibold mb-3">Felkorrigering</h3>
                 <p className="text-gray-600">
-                  Cursor kan hjälpa dig att identifiera och fixa fel i din kod. Använd "Explain Error" för att få en tydlig förklaring av felet.
+                  Cursor kan hjälpa dig att identifiera och fixa fel i din kod. Använd &quot;Explain Error&quot; för att få en tydlig förklaring av felet.
                 </p>
               </div>
             </div>
